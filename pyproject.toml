@@ -1,0 +1,9 @@
+[project]
+name = "dhdk-crash-2026-27-2nd"
+version = "0.1.0"
+description = "Tools for DH research crash course, DHDK 2nd year, 2026/27"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "pandas>=2.3",
+]
