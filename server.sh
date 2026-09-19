@@ -1,3 +1,3 @@
 # Serve the lessons directory
 
-marp -s ./lessons --theme theme.css
+marp --no-stdin -s ./lessons --theme theme.css
