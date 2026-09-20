@@ -1,6 +1,6 @@
 # DHDK Crash Courses - Resources 
 
-This repo holds the teaching resources for crash courses I've been holding for the DHDK master's course at the University of Bologna, starting in 2023. 
+This repo holds the teaching resources for crash courses I've been holding for the [DHDK master's course](https://corsi.unibo.it/2cycle/DigitalHumanitiesKnowledge) at the University of Bologna, starting in 2023. 
 
 These crash courses are offered to first-year students as a way to help them come to grip with the course's requirements, which can be quite extensive. Between 2023 and 2025,
 I taught a new course titled 'Tools for DH Research & Literacy', inspired by my time on the course and seeing some of my younger colleagues struggle with what I took 
