@@ -2,7 +2,7 @@
 marp: true
 theme: source
 html: true
-transition: pivot
+transition: pull
 paginate: true
 ---
 
@@ -11,7 +11,7 @@ paginate: true
 # DH Project Management & Tools for Research - Crash Course 
 ## DHDK 2nd year (2026/27)
 
-September 23 & 25, 2026
+September 23, 2026
 Laurent Fintoni
 laurent.fintoni2@unibo.it 
 [GitHub](https://github.com/laurentfintoni/dhdk-crash-courses/tree/2026-27_2nd_year)
@@ -34,7 +34,7 @@ laurent.fintoni2@unibo.it
 
 --- 
 
-# A quick intro and ice-breaker 
+# A quick intro  
 
 * 💼 My background is in media and culture, in particular music.
 * 🎓 DHDK 2022 graduate. 
@@ -42,18 +42,21 @@ laurent.fintoni2@unibo.it
 * 🤞🏻 I offer these courses because I believe that sharing learnings can help make your own experience of the course better. 
 * 🤔 This course for 2nd year students is a first, and a bit of an experiment so any feedback you have at the end is appreciated. 
 
-
 --- 
 
-# A quick intro and ice-breaker 
+# And an ice-breaker 
 
-ICE BREAKER HERE -> past / existing professional experiences / interest which then leads us to can these be replaced by AI 
+Please go to menti.com and enter the code 6225 9721. 
 
 ---
 <!-- _class: impact -->
 
 # Inevitable choice? 
 ## AI and its implications 
+
+<!-- 
+- Ok before we get into project management, i wanted to take a quick detour into everyone's favorite topic of the day, to give some context about AI and how it will be discussed in these two crash courses, but also to give you some hopefully useful food for thought with regards to what it means for you as students, potential Digital Humanists, but also humans in this moment in time. 
+-->
 
 --- 
 
@@ -62,14 +65,16 @@ ICE BREAKER HERE -> past / existing professional experiences / interest which th
 
 # What are we talking about? 
 
-* Artificial Intelligence <mark>means different things to different people in different contexts</mark>: Generative AI, LLMs, Machine Learning, the business of AI etc... 
+* Artificial Intelligence <mark>means different things to different people in different contexts</mark>: Generative AI, LLMs, Machine Learning, the business of AI, recommendation systems, surveillance technology etc... 
 
 * What matters yet is often 'unsaid' is that AI as it is used today in media and society implies a political theory, what Tressie McMillan Cottom calls <mark>data politics</mark>. 
 
-* > "[...] The technology isn't just large language models or agents or data centers. It is the backbone of a superstructure that merges regressive politics with unchecked economic power in the guise of technological innovation." 
+* > "[...] The technology isn't just large language models or agents or data centers. It is the backbone of a superstructure that merges regressive politics with unchecked economic power in the guise of technological innovation." - Tressie McMillan Cottom
 
 <!-- 
 - The words we use matter. Think about what you are implying when you use a specific term. 
+- In this presentation I will try and use specific terms like GenAI or LLMs to be more specific. 
+- Personally i also try and call it machine when I talk about it, to avoid the anthropomorphising that is being forced upon us. 
 -->
 
 --- 
@@ -157,6 +162,7 @@ ICE BREAKER HERE -> past / existing professional experiences / interest which th
 - [Training The Archive project](https://trainingthearchive.ludwigforum.de/en/start/)  
 - [Language Machines: Cultural AI and the End of Remainder Humanism](https://www.upress.umn.edu/9781517919320/language-machines/) by Leif Weatherby 
 - [Deep Unlearning: The Rise of AI and the Radicalization of a Tech Idealist](https://www.versobooks.com/products/3381-deep-unlearning) by Timnit Gebru (forthcoming later this year )
+- [The entry for Artificial Intelligence](https://faculty.washington.edu/ebender/papers/Bender-AI-2026.pdf) in the [Oxford Research Encyclopedia of Science, Technology, and Society](https://academic.oup.com/edited-volume/63015) (2026) by Emily M. Bender. 
 - [Unibo GenAI policy](https://www.unibo.it/en/university/statute-standards-strategies-and-reports/artificial-intelligence)
 
 ---
@@ -327,7 +333,17 @@ These apply broadly to the concept of a project, regardless of its context. <mar
 
 # Q&A break 
 
-SOMETHING
+* Questions? 
+
+* What are some of your own experiences doing DHDK projects with regards to what we've covered? 
+
+---
+<!-- _class: impact -->
+
+# Project Management & the DH 
+## Some practical examples  
+
+--- 
 
 --- 
 <!-- _class: steps -->
@@ -337,15 +353,126 @@ SOMETHING
 <div class="columns">
 <figure>
 
-![Scientific research workflow diagram](img/rbma.jpg)
+![RBMA cover image](img/rbma.jpg)
 
-<figcaption>[RBMA](https://www.redbullmusicacademy.com/lectures/)</figcaption>
+<figcaption>https://www.redbullmusicacademy.com/lectures/</figcaption>
 </figure>
 <div>
 
-In the first crash course you were given a look at Project Management within the context of scientific research. 
-
-For reference: [DH Project Management first year crash course 2025](https://figshare.com/articles/presentation/_b_DH_Project_Management_part_I_-_DHDK_Crash_Courses_2023_b_/24249829?file=58604407)
+* Privately funded project. 
+* Goal: Build an archive of all lectures spanning 20 years, with transcripts and edited videos. Make the process repeatable internally for continued use. 
 
 </div>
 </div>
+
+--- 
+<!-- _class: steps -->
+
+# Practical examples: RBMA 
+
+* Resources: Budget (around $60K), freelancers + internal staff, transcription service, Slack, Google Workspace, YouTube (hosting).
+* Planning: Around one month, incl. a short testing phase based on some pre-existing experiences. 
+* Time: 12 months to build the historical archive (about 200 interviews). Worked continued internally for two years and delivery of the final archive. 
+* Documentation & monitoring: internal guidelines, monthly milestones (x interviews completed per month), some analytics. 
+* Final deliverable: [a historical archive](https://www.redbullmusicacademy.com/lectures/) owned by Red Bull and a back up at [The Internet Archive](https://archive.org/details/redbullacademy?tab=about). 
+
+--- 
+<!-- _class: steps -->
+
+# Practical examples: FAIR Memories 
+
+<div class="columns">
+<figure>
+
+![FAIR Memories photo](img/IMG_1725.jpeg)
+
+<figcaption>FAIR Memories presentation at ADHO 2026.</figcaption>
+</figure>
+<div>
+
+* Publicly funded project.
+* Goal: Create a reusable workflow for the digitization and FAIR-ification of analogue oral history collections, along with a sample dataset. 
+
+</div>
+</div>
+
+--- 
+<!-- _class: steps -->
+
+# Practical examples: FAIR Memories 
+
+* Budget: €250K, of which more than 80% is allocated to human resources (3 full time researchers). The rest goes to dissemination, travel, resources.
+* Resources: Hardware, Notion, Microsoft Cloud (via Unibo), VSCode, Claude, ChatGPT, Zotero, interns.  
+* Planning: Two weeks for funding proposal, 1 month at start of project. 
+* Time: 24 months. Person-months: over 70. 
+* Documentation & monitoring: internal guidelines, milestones, regular meetings.  
+
+---
+
+<!-- _class: steps -->
+
+# Practical examples: FAIR Memories 
+
+<div class="columns">
+<figure>
+
+![Encoding Guidelines screenshot](img/guidelines_screenshot.jpg)
+
+<figcaption>FAIR Memories TEI Encoding Guidelines - Microsoft Cloud</figcaption>
+</figure>
+<div>
+<figure>
+
+![Notion screenshot](img/notion_screenshot.jpg)
+
+<figcaption>FAIR Memories PM Tracker - Notion </figcaption>
+</figure>
+</div>
+</div>
+
+--- 
+
+<!-- _class: steps -->
+
+# Practical examples: FAIR Memories 
+
+* I use VSCode in an 'unusual' way for this project. 
+
+* I use the entire local folder (which contains everything from admin to code) as the project in VSCode and have multiple virtual environments in sub-folders for specific tasks: OCR, audio transcription, html/JS interfaces, global. 
+
+* From a technical pov this isn't great, but from a practical pov this allows me to do all my work in one place, as opposed to multiple concurrent project windows. Especially useful to be able to read and update concurrent documentation across different streams of work or combine tasks (e.g. OCR and TEI encoding). 
+
+--- 
+<!-- _class: steps -->
+
+# Practical examples: DHDK Projects 
+
+<div class="columns">
+<figure>
+
+![NetArtRev screenshot](img/dhdk_screenshot.jpg)
+
+<figcaption><a href="https://laurentfintoni.github.io/Net-Art-Rev/" target="_blank" class="href">NetArtRev DHDK project</a>.</figcaption>
+</figure>
+<div>
+
+* 2nd Year DHDK Project, for the Information Visualization class
+* Goal: Using two different datasets related to different types of art history, one from MoMA and one from Rhizome, what kind of data-driven story could we tell? 
+
+</div>
+</div>
+
+---
+<!-- _class: steps -->
+
+# Practical examples: DHDK Projects 
+
+* Resources: 3 students and seemingly infinite time 😉 
+* Tools: Python, Plotly for data viz, Miro, GitHub.
+* Planning: Largely done during the course via discussions and choice of datasets and research question.  
+* Time: Between 2-3 weeks of real time spread across a few months.  
+* Documentation & monitoring: We did not properly document 🥲 but we held regular meetings to share insights on how to do the work and assign/take up tasks. 
+* Responsibilities: data preparation, cleaning, integration, visualization, research, web dev, design, and storytelling were shared by all in turn. 
+
+---
+
