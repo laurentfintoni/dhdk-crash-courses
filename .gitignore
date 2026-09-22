@@ -3,3 +3,6 @@
 node_modules/
 __pycache__/
 
+# TEMPORARY: keep lesson 02 offline until ready — remove this rule to publish it
+lessons/02/
+

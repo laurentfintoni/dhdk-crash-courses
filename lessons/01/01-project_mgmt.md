@@ -489,9 +489,9 @@ These apply broadly to the concept of a project, regardless of its context. <mar
 ---
 <!-- _class: steps -->
 
-# Workshop 
+# Q&A and Workshop 
 
-TBC
+Depending on time we have left we can do some more Q&A discussions about Project Management, for example discussing some of your own experiences or things you are unsure about, etc... OR we can also try and do some short workshop exercises using some real world examples, such as the FAIR Memories project (e.g. I give you a pitch and you come up with quick drafts for plans, resources etc.). 
 
 ---
 <!-- _class: cover -->
