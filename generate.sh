@@ -48,8 +48,8 @@ for dir in */; do
     base="${mdfile%.md}"
     marp --no-stdin "$mdfile" -o "${base}.html" --theme ../../theme.css
     marp --no-stdin "$mdfile" -o "${base}.pptx" --theme ../../theme.css --allow-local-files
-    # override the bespoke template's black backdrop (HTML only)
-    perl -0777 -pi -e "s!</head>!<style>html,body{background:${BACKDROP}}</style></head>!" "${base}.html"
+    # override the bespoke template's black backdrop, incl. the overview grid (HTML only)
+    perl -0777 -pi -e "s!</head>!<style>html,body{background:${BACKDROP}}html body[data-bespoke-view=overview]{background:${BACKDROP}}</style></head>!" "${base}.html"
     # top-align slides (HTML only)
     PIN="$PIN_SCRIPT" perl -0777 -pi -e 's{</body>}{$ENV{PIN}</body>}' "${base}.html"
   done
