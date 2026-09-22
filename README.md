@@ -10,4 +10,4 @@ Starting in 2026, the first-year courses are now offered half-way through the fi
 
 The contents of the repo are held in branches (navigate to them via the dropdown above) where each branch is for a specific student cohort and academic year. Materials provided include slides and bibliographies. 
 
-These materials are free to reuse. 
+These materials are made available under a CC0-1.0 license. Don't be a dick (and equally lmk if you have good reasons to believe that the use of this license for these materials is problematic). 
