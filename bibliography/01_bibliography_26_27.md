@@ -30,6 +30,7 @@ If you spot any errors please let me know, thank you! 🙏🏻
 - Carroll, S. R., Garba, I., Figueroa-Rodríguez, O. L., Holbrook, J., Lovett, R., Materechera, S., Parsons, M., Raseroka, K., et al. (2020). The CARE Principles for Indigenous Data Governance. *Data Science Journal*, 19(1), 43. https://doi.org/10.5334/dsj-2020-043 (article page: https://datascience.codata.org/articles/10.5334/dsj-2020-043)
 - Training the Archive (project). Ludwig Forum. https://trainingthearchive.ludwigforum.de/en/start/
 - Risam, R. (2026) *Data Empire: The Power of Information to Organize, Control, and Dominate*. Harper Collins. https://www.penguin.co.uk/books/468415/data-empire-by-risam-roopika/9781911709817 
+- Smith, A.J., and Whearty, B. "All the Work You Do Not See: Labor, Digitizers, and the Foundations of Digital Humanities". In M. K. Gold (Ed.), Debates in the Digital Humanities 2023. University of Minnesota Press. https://dhdebates.gc.cuny.edu/read/40de72d8-f153-43fa-836b-a41d241e949c/section/9e014167-c688-43ab-8b12-0f6746095335#ch03
 
 ### AI policy & practices
 

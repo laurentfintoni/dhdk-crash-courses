@@ -21,10 +21,10 @@ laurent.fintoni2@unibo.it
 # Practical stuff 
 
 * 2 sessions, 4 hours. 
-* Session 1 is Project Management, Session 2 is Tools for DH Research (Friday 12-2PM)
-* Shared across both are the (complicated) topics of GenAI/LLMs and research/data literacy 
-* Am available after each session (and later on too) if you need it
-* Thank you if you took time to answer the [questionnaire](https://forms.cloud.microsoft/e/jSRc3WbGH3) (it's still open!)
+* Session 1 is Project Management, Session 2 is Tools for DH Research (Friday 12-2PM).
+* Shared across both are the (complicated) topics of GenAI/LLMs and research/data literacy. 
+* Am available after each session (and later on too) if you need it.
+* Thank you if you took time to answer the [questionnaire](https://forms.cloud.microsoft/e/jSRc3WbGH3) (it's still open!).
 
 <!-- 
 - The sessions are interconnected, best if you can attend/follow/catch up on both as there's a fair amount of crossover
@@ -47,6 +47,11 @@ laurent.fintoni2@unibo.it
 # And an ice-breaker 
 
 Please go to menti.com and enter the code 6225 9721. 
+
+<!-- 
+- let's hope this works! 
+- you shouldn't need to login to answer 
+-->
 
 ---
 <!-- _class: impact -->
@@ -72,7 +77,7 @@ Please go to menti.com and enter the code 6225 9721.
 * > "[...] The technology isn't just large language models or agents or data centers. It is the backbone of a superstructure that merges regressive politics with unchecked economic power in the guise of technological innovation." - Tressie McMillan Cottom
 
 <!-- 
-- The words we use matter. Think about what you are implying when you use a specific term. 
+- The words we use matter. Think about what you are implying when you use a specific term. But also specificity can help you navigate the ethical implications of the technology. 
 - In this presentation I will try and use specific terms like GenAI or LLMs to be more specific. 
 - Personally i also try and call it machine when I talk about it, to avoid the anthropomorphising that is being forced upon us. 
 -->
@@ -121,6 +126,7 @@ Please go to menti.com and enter the code 6225 9721.
 
 <!-- 
 - It's one thing to wave away the implications of having something delivered to you the next day. It's another waving away the implications of generating images, audio, video, or text with a few lines of text in seconds. The immediacy of it feeds the burden. 
+- I was 'slow' to adopt GenAI and LLMs for the work that I do and having done so does not absolve me of the ethical implications and complications of my choice. I am strongly opposed to the use of GenAI to generate creative work, yet I have become somewhat comfortable with using it for coding and organizational work. It's an, arguably, untenable position but one that I feel partially forced into by the system. 
 -->
 
 --- 
@@ -153,11 +159,16 @@ Please go to menti.com and enter the code 6225 9721.
 
 * > "It is possible to learn about this technology without using it." - Casey Fiesler 
 
+<!-- 
+- I cannot stress enough that choosing not to use these technologies is absolutely fine but I also understand that there are other factors, such as systemic pressure, that may make the choice seem either impossible or negative.  
+- This isn't the space for a debate about institutional responsibilities, though that is a debate that you should be aware of, so here for me the video game analogy feels most apt. 
+-->
+
 --- 
 
 # Further reading, watching, and thinking... 
 
-- [Last year's list of references (most are still relevant)](https://github.com/laurentfintoni/dhdk-crash-courses/blob/2026-27_2nd_year/bibliography/00_bibliography_24_25.md)
+- [Last year's list of references from the literacy crash course (most are still relevant)](https://github.com/laurentfintoni/dhdk-crash-courses/blob/2026-27_2nd_year/bibliography/00_bibliography_24_25.md)
 - [Training The Archive project](https://trainingthearchive.ludwigforum.de/en/start/)  
 - [Language Machines: Cultural AI and the End of Remainder Humanism](https://www.upress.umn.edu/9781517919320/language-machines/) by Leif Weatherby 
 - [Deep Unlearning: The Rise of AI and the Radicalization of a Tech Idealist](https://www.versobooks.com/products/3381-deep-unlearning) by Timnit Gebru (forthcoming)
@@ -294,7 +305,7 @@ These apply broadly to the concept of a project, regardless of its context. <mar
 
 * In a DH context, most often we're talking about people and tools (and the time and money needed for them). 
 
-* It's good practice to list all your needed resources at the initiating / planning phases so that you can account for them when needed. For example, it's easy to not think of things like training or access as being a resource you might need because you know how to do something or have access to a software, someone else may not.  
+* It's good practice to list all your needed resources at the initiating / planning phases so that you can account for them when needed. For example, it's easy to ignore things like training or access as a resource you might need because you know how to do something or have access to a software, but someone else in the project may not.  
 
 --- 
 <!-- _class: steps -->
@@ -414,7 +425,7 @@ These apply broadly to the concept of a project, regardless of its context. <mar
 * Budget: €250K, of which more than 80% is allocated to human resources (3 full time researchers). The rest goes to dissemination, travel, resources.
 * Resources: Hardware, Notion, Microsoft Cloud (via Unibo), VSCode, Claude, ChatGPT, Zotero, Abobe Cloud, interns.  
 * Planning: Two weeks for funding proposal, 1 month at start of project. 
-* Time: 24 months. Person-months: over 70. 
+* Time: 24 months. Person-months: over 70.  
 * Documentation & monitoring: internal guidelines, milestones, regular meetings, timesheets.  
 
 ---
