@@ -15,6 +15,19 @@ If you spot any errors please let me know, thank you! 🙏🏻
 - Who's Responsible for "Responsible AI"? Mystery AI Hype Theater 3000. July 06, 2026. https://www.buzzsprout.com/2126417/episodes/19595620-who-s-responsible-for-responsible-ai-2026-07-06
 - Tobi Ajala, Instagram, Sept. 14, 2026. https://www.instagram.com/reel/DdQ1UkioL29/
 - Casey Fiesler, Instagram, Aug. 21, 2026. https://www.instagram.com/reel/DcT8NGsq5hD/?stkn=Z3d4MGozZGQ3ZDJs
+- Seddone, G. LLMs and the increasing role of the humanities in the digital age. AI & Soc 41, 3531–3539 (2026). https://doi.org/10.1007/s00146-025-02778-w
+
+### AI Literacy & Usage 
+
+- Tressie McMillan Cottom, Instagram, Aug. 3, 2026. https://www.instagram.com/p/Dbl8-8eGsrl/
+- 'AI Literacy Is Information Literacy: Helping Students Navigate a New Research Landscape. EBSCO. https://about.ebsco.com/blogs/ebscopost/ai-literacy-information-literacy-helping-students-navigate-new-research-landscape 
+- Shiri Melumad, Jin Ho Yun, Experimental evidence of the effects of large language models versus web search on depth of learning, PNAS Nexus, Volume 4, Issue 10, October 2025, pgaf316, https://doi.org/10.1093/pnasnexus/pgaf316 
+- Nikhil Sharma, Q. Vera Liao, and Ziang Xiao. 2024. Generative Echo Chamber? Effect of LLM-Powered Search Systems on Diverse Information Seeking. In Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems (CHI '24). Association for Computing Machinery, New York, NY, USA, Article 1033, 1–17. https://doi.org/10.1145/3613904.3642459
+- Li, A. and Sinnamon, L. (2024), Generative AI Search Engines as Arbiters of Public Knowledge: An Audit of Bias and Authority. Proceedings of the Association for Information Science and Technology, 61: 205-217. https://arxiv.org/pdf/2405.14034 
+- Athena Chapekis, Anna Lieb, Sono Shah and Aaron Smith. "What Web Browsing Data Tells Us About How AI Appears Online". May 23, 2025. Pew Research Center. https://www.pewresearch.org/data-labs/2025/05/23/what-web-browsing-data-tells-us-about-how-ai-appears-online/
+- 'Digital economy and society statistics - households and individuals'. Eurostat. December 2025. https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Digital_economy_and_society_statistics_-_households_and_individuals
+- 'Individuals - use of generative AI tools'. Eurostat dataset. https://ec.europa.eu/eurostat/databrowser/view/isoc_ai_iaiu/default/table?lang=en
+- Ma et al. (2026). *A dancing bear, a colleague, or a sharpened toolbox? The cautious adoption of generative AI technologies in digital humanities research*. JASIST. https://asistdl.onlinelibrary.wiley.com/doi/10.1002/asi.70066?af=R
 
 ### DH practices
 
